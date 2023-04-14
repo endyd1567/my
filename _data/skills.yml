@@ -2,20 +2,12 @@
 # Backend
 - skill: Backend
   description:
-  - Java, Python
- - Spring Boot, Spring MVC
- - Thymeleaf
- - jdbctemplate, JPA, Hibernate
- - Junit4/5
- - Gradle
- - IntelliJ
+
 
 # DevOps
 - skill: DevOps
   description: 
-   - MySQL
- - Linux CentOS
- - Git
+
 
 # Digital content development and creation
 - skill: Digital content development and creation
