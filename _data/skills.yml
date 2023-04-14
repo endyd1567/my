@@ -2,13 +2,13 @@
 # Backend
 - skill: Backend
 
-  - Java, Python
- - Spring Boot, Spring MVC
- - Thymeleaf
- - jdbctemplate, JPA, Hibernate
- - Junit4/5
- - Gradle
- - IntelliJ
+ description: Java, Python
+ description: Spring Boot, Spring MVC
+ description: Thymeleaf
+ description: jdbctemplate, JPA, Hibernate
+ description: Junit4/5
+ description: Gradle
+ description: IntelliJ
 
 
 # DevOps
