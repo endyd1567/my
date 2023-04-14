@@ -2,7 +2,7 @@
 # Backend
 - skill: Backend
 
- description: <ul class="resume-item-list"><li>Java, Python</li><li>Spring Boot, Spring MVC</li><li>Thymeleaf</li><li>jdbctemplate, JPA, Hibernate</li></ul>
+ summary: <ul class="resume-item-list"><li>Java, Python</li><li>Spring Boot, Spring MVC</li><li>Thymeleaf</li><li>jdbctemplate, JPA, Hibernate</li></ul>
 
 
 # DevOps
