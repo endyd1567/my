@@ -3,14 +3,8 @@
 
 # 조별과제 길잡이
 - project: 조별과제 길잡이
-  role: 역할
+  role: 백엔드 개발 담당
   duration: 2023.03 &mdash; 진행중
   url: "https://github.com/endyd1567/capstone3"
-  description: 설명란
+  description: 소규모 프로젝트 관리 및 ChatGPT를 활용한 초안 작성/수정 서비스  
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
